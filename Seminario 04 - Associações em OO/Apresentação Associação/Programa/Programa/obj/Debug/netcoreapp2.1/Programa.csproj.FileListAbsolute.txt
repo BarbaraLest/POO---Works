@@ -1,0 +1,28 @@
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Programa.deps.json
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Programa.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Programa.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Programa.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Programa.pdb
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Modelo.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Modelo.pdb
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.pdb
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Programa.deps.json
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Programa.runtimeconfig.json
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Programa.runtimeconfig.dev.json
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Programa.dll
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Programa.pdb
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Modelo.dll
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\bin\Debug\netcoreapp2.1\Modelo.pdb
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.csprojAssemblyReference.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.AssemblyInfoInputs.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.AssemblyInfo.cs
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.csproj.CopyComplete
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.dll
+C:\Users\Barbara\Desktop\UTFPR\POO\Apresentação Associação\Apresentação Associação\Programa\Programa\obj\Debug\netcoreapp2.1\Programa.pdb

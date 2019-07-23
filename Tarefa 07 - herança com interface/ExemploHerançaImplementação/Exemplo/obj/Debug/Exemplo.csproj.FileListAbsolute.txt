@@ -1,0 +1,7 @@
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\ExemploInterface\Exemplo\bin\Debug\Exemplo.exe.config
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\ExemploInterface\Exemplo\bin\Debug\Exemplo.exe
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\ExemploInterface\Exemplo\bin\Debug\Exemplo.pdb
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\ExemploInterface\Exemplo\obj\Debug\Exemplo.csprojAssemblyReference.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\ExemploInterface\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\ExemploInterface\Exemplo\obj\Debug\Exemplo.exe
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\ExemploInterface\Exemplo\obj\Debug\Exemplo.pdb

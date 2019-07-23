@@ -1,0 +1,11 @@
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\Tarefa pratica 01\bin\Debug\netcoreapp2.1\Tarefa pratica 01.deps.json
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\Tarefa pratica 01\bin\Debug\netcoreapp2.1\Tarefa pratica 01.runtimeconfig.json
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\Tarefa pratica 01\bin\Debug\netcoreapp2.1\Tarefa pratica 01.runtimeconfig.dev.json
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\Tarefa pratica 01\bin\Debug\netcoreapp2.1\Tarefa pratica 01.dll
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\Tarefa pratica 01\bin\Debug\netcoreapp2.1\Tarefa pratica 01.pdb
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\Tarefa pratica 01\obj\Debug\netcoreapp2.1\Tarefa pratica 01.csprojAssemblyReference.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\Tarefa pratica 01\obj\Debug\netcoreapp2.1\Tarefa pratica 01.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\Tarefa pratica 01\obj\Debug\netcoreapp2.1\Tarefa pratica 01.AssemblyInfoInputs.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\Tarefa pratica 01\obj\Debug\netcoreapp2.1\Tarefa pratica 01.AssemblyInfo.cs
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\Tarefa pratica 01\obj\Debug\netcoreapp2.1\Tarefa pratica 01.dll
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\Tarefa pratica 01\obj\Debug\netcoreapp2.1\Tarefa pratica 01.pdb

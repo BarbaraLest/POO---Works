@@ -1,0 +1,7 @@
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\exe 2\bin\Debug\exe 2.exe.config
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\exe 2\bin\Debug\exe 2.exe
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\exe 2\bin\Debug\exe 2.pdb
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\exe 2\obj\Debug\exe 2.csprojAssemblyReference.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\exe 2\obj\Debug\exe 2.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\exe 2\obj\Debug\exe 2.exe
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa pratica 01\exe 2\obj\Debug\exe 2.pdb

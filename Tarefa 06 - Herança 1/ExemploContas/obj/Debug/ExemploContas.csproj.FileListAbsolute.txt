@@ -1,0 +1,7 @@
+C:\Users\Barbara\source\repos\TarefaHerança01\ExemploContas\bin\Debug\ExemploContas.exe.config
+C:\Users\Barbara\source\repos\TarefaHerança01\ExemploContas\bin\Debug\ExemploContas.exe
+C:\Users\Barbara\source\repos\TarefaHerança01\ExemploContas\bin\Debug\ExemploContas.pdb
+C:\Users\Barbara\source\repos\TarefaHerança01\ExemploContas\obj\Debug\ExemploContas.csprojAssemblyReference.cache
+C:\Users\Barbara\source\repos\TarefaHerança01\ExemploContas\obj\Debug\ExemploContas.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\source\repos\TarefaHerança01\ExemploContas\obj\Debug\ExemploContas.exe
+C:\Users\Barbara\source\repos\TarefaHerança01\ExemploContas\obj\Debug\ExemploContas.pdb

@@ -1,0 +1,22 @@
+C:\Users\vitor\Documents\3º Período\Programação Orientada a Objeto\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\bin\Debug\netcoreapp2.1\ExHeranca2.deps.json
+C:\Users\vitor\Documents\3º Período\Programação Orientada a Objeto\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\bin\Debug\netcoreapp2.1\ExHeranca2.runtimeconfig.json
+C:\Users\vitor\Documents\3º Período\Programação Orientada a Objeto\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\bin\Debug\netcoreapp2.1\ExHeranca2.runtimeconfig.dev.json
+C:\Users\vitor\Documents\3º Período\Programação Orientada a Objeto\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\bin\Debug\netcoreapp2.1\ExHeranca2.dll
+C:\Users\vitor\Documents\3º Período\Programação Orientada a Objeto\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\bin\Debug\netcoreapp2.1\ExHeranca2.pdb
+C:\Users\vitor\Documents\3º Período\Programação Orientada a Objeto\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\3º Período\Programação Orientada a Objeto\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\3º Período\Programação Orientada a Objeto\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\3º Período\Programação Orientada a Objeto\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.AssemblyInfo.cs
+C:\Users\vitor\Documents\3º Período\Programação Orientada a Objeto\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.dll
+C:\Users\vitor\Documents\3º Período\Programação Orientada a Objeto\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.pdb
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\Exercício 2 - Herança e Interface\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\bin\Debug\netcoreapp2.1\ExHeranca2.deps.json
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\Exercício 2 - Herança e Interface\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\bin\Debug\netcoreapp2.1\ExHeranca2.runtimeconfig.json
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\Exercício 2 - Herança e Interface\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\bin\Debug\netcoreapp2.1\ExHeranca2.runtimeconfig.dev.json
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\Exercício 2 - Herança e Interface\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\bin\Debug\netcoreapp2.1\ExHeranca2.dll
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\Exercício 2 - Herança e Interface\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\bin\Debug\netcoreapp2.1\ExHeranca2.pdb
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\Exercício 2 - Herança e Interface\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.csprojAssemblyReference.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\Exercício 2 - Herança e Interface\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\Exercício 2 - Herança e Interface\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.AssemblyInfoInputs.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\Exercício 2 - Herança e Interface\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.AssemblyInfo.cs
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\Exercício 2 - Herança e Interface\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.dll
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 07 - herança com interface\Exercício 2 - Herança e Interface\Exercício 2 - Herança e Interface\ExHeranca2\ExHeranca2\obj\Debug\netcoreapp2.1\ExHeranca2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 01\Console001app\bin\Debug\Console001app.exe.config
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 01\Console001app\bin\Debug\Console001app.exe
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 01\Console001app\bin\Debug\Console001app.pdb
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 01\Console001app\obj\Debug\Console001app.csprojAssemblyReference.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 01\Console001app\obj\Debug\Console001app.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 01\Console001app\obj\Debug\Console001app.exe
+C:\Users\Barbara\Desktop\UTFPR\POO\Tarefa 01\Console001app\obj\Debug\Console001app.pdb
